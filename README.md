@@ -1,5 +1,5 @@
 # compstudio_restaurantbuildv1
-Sheridan College
+<p> Sheridan College </p>
 Computation Studio Winter 2022
 
 Code used for Computation Studio Final Project
