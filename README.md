@@ -1,6 +1,6 @@
 # compstudio_restaurantbuildv1
 
-<h1>Computation Studio Winter 2022</h1>
+<p>Computation Studio Winter 2022</p>
 <p> Sheridan College </p>
 <p>Code used for Computation Studio Final Project </p>
 
