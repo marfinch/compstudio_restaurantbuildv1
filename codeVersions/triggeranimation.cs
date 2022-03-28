@@ -1,0 +1,19 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class TriggerAnimation : MonoBehaviour
+{
+    [SerializeField] private Animator myDoor;
+    
+    [SerilizeField] private string doorOpen - "doorOpen";
+        
+    public void OnTriggerEnter(Collider other)
+    {
+        if (other.CompareTag("Player"))
+        {
+            myDoor.Play(doorOpen, 0, 0.0f);
+        }
+    }
+}
+
